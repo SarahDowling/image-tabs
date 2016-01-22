@@ -11,3 +11,15 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
+
+.button{
+	border: 1px solid black;
+	border-radius: 50%;
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+}
+
+li{
+	list-style-type: none;
+}
