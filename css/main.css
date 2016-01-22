@@ -13,29 +13,29 @@ html {
 }
 
 .button {
-	border: 5px solid grey;
-	border-radius: 50%;
-	display: inline-block;
-	width: 15px;
-	height: 15px;
+  border: 5px solid grey;
+  border-radius: 50%;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
 }
 
 li {
-	list-style-type: none;
-	display: inline-block;
+  list-style-type: none;
+  display: inline-block;
 }
 
 .show0, .show1, .show2, .show3, .show4 {
-	display: none;
+  display: none;
 }
 .show0:target, .show1:target, .show2:target, .show3:target, .show4:target {
-	display: inline-block;
+  display: inline-block;
 }
 
 img {
-	width: 100%;
+  width: 100%;
 }
 
 ol {
-	text-align: center;
+  text-align: center;
 }
